@@ -1,0 +1,10 @@
+#video {
+  width: 100%;
+  height: 100vh;
+}
+body {
+  margin: 0;
+}
+#error {
+  text-align: center;
+}
